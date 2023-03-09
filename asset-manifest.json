@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Eshope/static/css/main.dadbc99d.css",
+    "main.js": "/Eshope/static/js/main.b86c2457.js",
+    "static/js/787.c933e9d7.chunk.js": "/Eshope/static/js/787.c933e9d7.chunk.js",
+    "static/media/Headphones.jpg": "/Eshope/static/media/Headphones.a216fc27d2532241fffa.jpg",
+    "static/media/clothes.jpg": "/Eshope/static/media/clothes.0d9a714fa1b0f64a70cc.jpg",
+    "static/media/pexels-porapak-apichodilok-346752.jpg": "/Eshope/static/media/pexels-porapak-apichodilok-346752.947b9a4489cc5a58d469.jpg",
+    "static/media/girlswatch.jpg": "/Eshope/static/media/girlswatch.8fa20db2ba57c9a927bc.jpg",
+    "static/media/perfumelite.jpg": "/Eshope/static/media/perfumelite.5cca1cf87aa2df98112f.jpg",
+    "static/media/casule.jpg": "/Eshope/static/media/casule.364b1f079ec07e11fddd.jpg",
+    "static/media/menswatch.jpg": "/Eshope/static/media/menswatch.899ccf500250cfc6d14e.jpg",
+    "index.html": "/Eshope/index.html",
+    "main.dadbc99d.css.map": "/Eshope/static/css/main.dadbc99d.css.map",
+    "main.b86c2457.js.map": "/Eshope/static/js/main.b86c2457.js.map",
+    "787.c933e9d7.chunk.js.map": "/Eshope/static/js/787.c933e9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dadbc99d.css",
+    "static/js/main.b86c2457.js"
+  ]
+}
